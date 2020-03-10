@@ -7,9 +7,9 @@
 module.exports = {
   // Add common site data (not required by the theme, but recommended)
   siteMetadata: {
-    title: "Thomas Hinds Media",
+    title: "Aidan McGowan Jazz",
     description: "",
-    siteUrl: "https://thomashindsmedia.com"
+    siteUrl: "https://AidanMcGowanJazz.com"
   },
   plugins: [
     // Add gatsby-theme-musician to your site

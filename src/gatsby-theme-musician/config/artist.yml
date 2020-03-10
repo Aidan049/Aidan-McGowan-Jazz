@@ -1,6 +1,6 @@
 artist:
-  name: Thomas Hinds Media
-  tagline: Solo acoustic artist
+  name: Aidan McGowan Jazz
+  tagline: Jazz Saxophonist
   # seo_title:
   # seo_description:
   # contact_twitter_username:
@@ -9,16 +9,10 @@ artist:
 
 social:
   - name: Facebook
-    url: https://www.facebook.com/hindsthomas/
+    url: https://www.facebook.com/aidan.mcgowan.376
   - name: Instagram
-    url: https://instagram.com/hindsight_musings
-  - name: Patreon
-    url: https://www.patreon.com/thomashindsmusic
+    url: https://www.instagram.com/aidan_mcgowan251/
   - name: Youtube
-    url: https://www.youtube.com/user/Tbone77777
-  - name: Apple
-    url: https://music.apple.com/us/artist/thomas-hinds/1004862632
-  - name: Spotify
-    url: https://open.spotify.com/artist/7wOxMZgaCVFRwfRT9tvqDH
+    url: https://www.youtube.com/channel/UCmB9dB-XLL_rjaQ8T2yfKYQ
 
 site_language: en
